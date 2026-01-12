@@ -1,10 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://github.com/abedehakims/Website-Skincare">
-    <img src="5159c0e759.jpg" alt="Project Banner" width="100%" height="auto" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </a>
 
-  <h1 align="center">Lumina Skin ✨</h1>
+  <h1 align="center">Pretty Glow ✨</h1>
 
   <p align="center">
     <strong>A Premium Beauty & Skincare Landing Page Interface</strong>
@@ -26,7 +23,7 @@
 
 ## 📖 About The Project
 
-**Website-Skincare** is a high-fidelity front-end project designed to showcase a luxury skincare brand. In an industry where aesthetics are everything, this project focuses on delivering a seamless user experience (UX) through a clean, sophisticated, and modern user interface (UI).
+**Pretty Glow** is a high-fidelity front-end project designed to showcase a luxury skincare brand. In an industry where aesthetics are everything, this project focuses on delivering a seamless user experience (UX) through a clean, sophisticated, and modern user interface (UI).
 
 This repository serves as a demonstration of expert-level **HTML5** and **CSS3** implementation, focusing on:
 * Visual storytelling through high-quality imagery.
@@ -85,7 +82,7 @@ A modern web browser (Chrome, Firefox, Edge, or Safari).
 
 ## 📬 Contact & Support
 
-**Abede Hakim** - [@abedehakims](https://github.com/abedehakims)
+**abedehakims** - [@abedehakims](https://github.com/abedehakims)
 
 Project Link: [https://github.com/abedehakims/Website-Skincare](https://github.com/abedehakims/Website-Skincare)
 
