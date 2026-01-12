@@ -1,5 +1,8 @@
 <br />
 <div align="center">
+  <a href="https://github.com/abedehakims/Website-Skincare">
+    <img src="5159c0e759.jpg" alt="Project Banner" width="100%" height="auto" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
 
   <h1 align="center">Pretty Glow ✨</h1>
 
